@@ -1,107 +1,128 @@
-# 📚 Courseworks Portfolio
+# 📚 Cornell Coursework Portfolio
 
-A curated collection of selected coursework projects from my graduate studies at **Cornell University, S.C. Johnson College of Business**, focusing on financial modeling, valuation, investment analysis, and business data analytics.
+A selected portfolio of graduate-level coursework projects from **Cornell University, S.C. Johnson College of Business**, focused on financial modeling, valuation, credit analysis, IPO transaction review, and SQL-based business analytics.
 
 ---
 
 ## 👋 About This Repository
 
-This repository highlights selected academic projects that demonstrate my analytical foundation in:
+This repository showcases selected academic projects that reflect my analytical training in:
 
-* Financial modeling and valuation
-* Corporate finance and investment analysis
-* IPO and LBO analysis
+* Financial statement forecasting and valuation
+* Credit rating and operating risk assessment
+* IPO transaction analysis and comparable company valuation
 * SQL-based business data analytics
-* Financial forecasting and strategic decision support
+* Data-driven strategic recommendations
+
+Each project combines financial analysis, structured modeling, research, and business interpretation to support investment, credit, or operating decisions.
 
 ---
 
 ## 📌 Featured Projects
 
-| Project                                           | Course                                         | Focus Area                                            | Deliverable                                         |
-| ------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------- |
-| **Crocs LBO Financial Model**                     | NBA 5110 Financial Modeling                    | LBO Modeling, Debt Structure, IRR Analysis            | [View PDF](./Crocs-LBO-Financial-Model.pdf)         |
-| **Ethos IPO Analysis**                            | NBA 5360 Investment Banking Essentials         | IPO Readiness, Comparable Company Analysis, Valuation | [View PDF](./Ethos-IPO-Analysis.pdf)                |
-| **Yelp Restaurant & Food Analysis**               | NBA 6550 Business Data Analysis with SQL       | SQL Queries, Consumer Trends, Market Insights         | [View PDF](./Yelp-Restaurant-Food-Analysis.pdf)     |
-| **Deluxe Corp Financial Forecasting & Valuation** | NBA 5090 Advanced Financial Statement Analysis | Three-Statement Forecasting, DCF, Comps               | [View PDF](./Deluxe-Corp-Forecasting-Valuation.pdf) |
+| Project                                      | Course / Topic                        | Focus Area                                                   | Deliverable                                                 |
+| -------------------------------------------- | ------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
+| **Abercrombie & Fitch Debt Rating Model**    | Financial Modeling                    | Credit Rating, Risk Assessment, Financial Forecasting        | [View Workbook](./ANF%20Debt%20Rating.xlsx)                 |
+| **Deluxe Corp Forecasting & Valuation**      | Advanced Financial Statement Analysis | Three-Statement Forecasting, DCF, RIM, Relative Valuation    | [View PDF](./DLX%20Valuation.pdf)                           |
+| **Ethos IPO Transaction Review**             | Investment Banking / IPO Analysis     | Selling Thesis, IPO Structure, Comps Valuation, Risk Factors | [View Deck](./Ethos_IPO_Assignment.pptx)                    |
+| **Yelp Restaurant & Food Business Analysis** | Business Data Analysis with SQL       | SQL Analytics, Market Entry, Operations, Review Analysis     | [View PDF](./Yelp%20Restaurant%20%26%20Food%20Analysis.pdf) |
 
 ---
 
-## 🏦 Crocs LBO Financial Model
+## 🏷 Project 1 — Abercrombie & Fitch Debt Rating Model
 
-**Course:** NBA 5110 Financial Modeling
-**Type:** Group Assignment
-**Tools:** Excel, Financial Modeling
+**Deliverable:** Excel Workbook
+**Focus:** Credit rating, financial forecasting, valuation, and operating risk assessment
+**Tools:** Excel, financial modeling, ratio analysis
 
-Built a leveraged buyout model for Crocs, Inc. to evaluate acquisition feasibility, financing structure, debt repayment capacity, and projected sponsor returns.
+Built an integrated credit rating and valuation workbook for **Abercrombie & Fitch Co. (ANF)**, including assumptions, financial statements, supporting schedules, risk tables, and debt rating calculations.
 
 **Key Highlights**
 
-* Built an integrated operating forecast and LBO structure
-* Modeled debt financing, cash sweep, and repayment schedules
-* Conducted IRR sensitivity and offer price analysis
-* Evaluated buyout feasibility under multiple operating scenarios
+* Built linked financial statement schedules, including income statement, balance sheet, statement of cash flows, working capital, debt, shareholder equity, and fixed assets.
+* Developed risk assessment tables covering liquidity, solvency, debt payback, coverage, profitability, revenue growth, EBIT margin, and net margin.
+* Created a rating calculation framework to evaluate financial risk and operating performance across forecast years.
+* Supported credit-oriented decision-making through structured assumptions, scenario analysis, and risk classification.
+
+**Skills Demonstrated**
+`Financial Modeling` · `Credit Analysis` · `Ratio Analysis` · `Scenario Analysis` · `Risk Assessment` · `Excel`
 
 ---
 
-## 📈 Ethos IPO Analysis
+## 🏷 Project 2 — Deluxe Corp Forecasting & Valuation
 
-**Course:** NBA 5360 Investment Banking Essentials
-**Type:** Individual Assignment
-**Tools:** Excel, Capital Markets Research
-
-Analyzed Ethos from an IPO readiness and valuation perspective, focusing on business positioning, market comparables, and potential offering valuation.
-
-**Key Highlights**
-
-* Conducted comparable company analysis
-* Evaluated market positioning and growth narrative
-* Assessed key IPO risk factors and investor considerations
-* Developed valuation insights using public market benchmarks
-
----
-
-## 🍽️ Yelp Restaurant & Food Analysis
-
-**Course:** NBA 6550 Business Data Analysis with SQL
-**Type:** Group Assignment
-**Tools:** SQL, Data Analysis
-
-Used SQL to analyze Yelp restaurant and food-related data, identifying consumer behavior patterns, category trends, and geographic market insights.
-
-**Key Highlights**
-
-* Wrote SQL queries using joins, aggregations, and filtering logic
-* Analyzed restaurant ratings, review patterns, and category performance
-* Identified market-level insights from structured business data
-* Translated data findings into business recommendations
-
----
-
-## 💼 Deluxe Corp Financial Forecasting & Valuation
-
+**Deliverable:** PDF Report
 **Course:** NBA 5090 Advanced Financial Statement Analysis
-**Type:** Individual Assignment
-**Tools:** Excel, Financial Statement Analysis
+**Focus:** Financial statement forecasting and valuation analysis
+**Tools:** Excel, financial statement analysis, DCF, residual income model, comparable company analysis
 
-Built a financial forecasting and valuation analysis for Deluxe Corporation using financial statement analysis, operating assumptions, and valuation methodologies.
+Conducted a full financial forecasting and valuation analysis for **Deluxe Corporation (DLX)**, a business services company transitioning from traditional print products toward payments, data solutions, and merchant services.
 
 **Key Highlights**
 
-* Developed revenue, margin, working capital, and cash flow forecasts
-* Built valuation analysis using DCF and comparable company methods
-* Evaluated business performance through financial statement trends
-* Synthesized valuation outputs into investment-relevant insights
+* Forecasted product revenue and service revenue separately based on business transformation, segment trends, and management strategy.
+* Built projected income statement, balance sheet, and cash flow statement through 2029.
+* Modeled key assumptions for revenue, COGS, SG&A, restructuring expenses, interest expense, tax rate, working capital, PP&E, intangible assets, and financing accounts.
+* Applied multiple valuation approaches, including DCF valuation, residual income valuation, and relative valuation.
+* Conducted sensitivity analysis and compared valuation outputs to develop an investment recommendation.
+
+**Skills Demonstrated**
+`Financial Statement Forecasting` · `DCF Valuation` · `Residual Income Valuation` · `Comparable Company Analysis` · `Sensitivity Analysis`
 
 ---
 
-## 🛠 Skills Demonstrated
+## 🏷 Project 3 — Ethos IPO Transaction Review
+
+**Deliverable:** PowerPoint Deck
+**Focus:** IPO transaction review, investor selling thesis, risk analysis, and valuation
+**Tools:** Capital IQ, S-1 analysis, comparable company analysis, IPO transaction analysis
+
+Prepared an IPO transaction review for **Ethos Technologies Inc.**, a capital-light life insurance platform, analyzing how the company should be positioned to IPO investors and how its public-market valuation should be assessed.
+
+**Key Highlights**
+
+* Developed an equity investor selling thesis based on Ethos’ underwriting technology, digital application engine, Agent OS, policy administration system, and data infrastructure.
+* Analyzed key IPO risk factors, including revenue persistency, carrier dependence, marketing efficiency, regulatory/privacy exposure, cybersecurity risk, and dual-class governance.
+* Summarized IPO transaction structure, including primary and secondary share split, proceeds breakdown, underwriting structure, lock-up terms, and post-IPO capitalization.
+* Built comparable company analysis using weighted peer selection rather than a mechanical median, reflecting Ethos’ capital-light insurance distribution model.
+* Evaluated valuation implications using public-market comparable companies and IPO-specific investor considerations.
+
+**Skills Demonstrated**
+`IPO Analysis` · `Comparable Company Analysis` · `Capital Markets` · `S-1 Review` · `Risk Assessment` · `Valuation`
+
+---
+
+## 🏷 Project 4 — Yelp Restaurant & Food Business Analysis
+
+**Deliverable:** PDF Report
+**Course:** NBA 6550 Business Data Analysis with SQL
+**Focus:** SQL-based business analytics and restaurant performance recommendations
+**Tools:** SQLite, Excel regression analysis, data visualization, business strategy
+
+Analyzed Yelp’s restaurant and food business dataset to provide market entry guidance for new restaurants and operational optimization strategies for existing restaurants.
+
+**Key Highlights**
+
+* Analyzed 16,663 restaurant and food businesses using star ratings and review counts as performance indicators.
+* Used SQLite to explore relationships between geographic location, service hours, photo volume, photo type, user type, check-in patterns, review content, and restaurant performance.
+* Identified favorable market entry locations with high demand and moderate competition, including cities with strong review activity but lower saturation.
+* Evaluated how photo quantity and category mix affect restaurant engagement, showing that richer visual content is associated with stronger review performance.
+* Analyzed Yelp Elite user effects, check-in patterns, peak-hour demand, and review sentiment drivers.
+* Built regression-based insights showing that food, service, and cleanliness are key rating drivers, while negative experiences such as service failures, hygiene issues, and long wait times have stronger downside effects.
+
+**Skills Demonstrated**
+`SQL` · `Data Analysis` · `Business Analytics` · `Regression Analysis` · `Market Entry Strategy` · `Operational Optimization`
+
+---
+
+## 🛠 Skills Demonstrated Across Projects
 
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Data%20Analytics-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-![Financial Modeling](https://img.shields.io/badge/Financial%20Modeling-Three--Statement%20%7C%20LBO%20%7C%20DCF-0D1B2A?style=flat-square)
-![Valuation](https://img.shields.io/badge/Valuation-DCF%20%7C%20Comps%20%7C%20IPO-1B4332?style=flat-square)
-![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Data--Driven%20Insights-2D6A4F?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-Business%20Analytics-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![Financial Modeling](https://img.shields.io/badge/Financial%20Modeling-Forecasting%20%7C%20Credit%20%7C%20Valuation-0D1B2A?style=flat-square)
+![Valuation](https://img.shields.io/badge/Valuation-DCF%20%7C%20RIM%20%7C%20Comps-1B4332?style=flat-square)
+![IPO Analysis](https://img.shields.io/badge/IPO%20Analysis-S--1%20%7C%20Comps%20%7C%20Transaction%20Review-B31B1B?style=flat-square)
+![Business Analytics](https://img.shields.io/badge/Business%20Analytics-SQL%20%7C%20Regression%20%7C%20Insights-2D6A4F?style=flat-square)
 
 ---
 
@@ -111,10 +132,10 @@ Built a financial forecasting and valuation analysis for Deluxe Corporation usin
 Courseworks/
 │
 ├── README.md
-├── Crocs-LBO-Financial-Model.pdf
-├── Ethos-IPO-Analysis.pdf
-├── Yelp-Restaurant-Food-Analysis.pdf
-└── Deluxe-Corp-Forecasting-Valuation.pdf
+├── ANF Debt Rating.xlsx
+├── DLX Valuation.pdf
+├── Ethos_IPO_Assignment.pptx
+└── Yelp Restaurant & Food Analysis.pdf
 ```
 
 ---
