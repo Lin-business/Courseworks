@@ -6,112 +6,50 @@ A selected portfolio of graduate-level coursework projects from **Cornell Univer
 
 ## 👋 About This Repository
 
-This repository showcases selected academic projects that reflect my analytical training in:
-
-* Financial statement forecasting and valuation
-* Credit rating and operating risk assessment
-* IPO transaction analysis and comparable company valuation
-* SQL-based business data analytics
-* Data-driven strategic recommendations
-
-Each project combines financial analysis, structured modeling, research, and business interpretation to support investment, credit, or operating decisions.
+This repository showcases selected academic projects that demonstrate my analytical foundation in financial modeling, corporate finance, valuation, credit analysis, and business data analytics.
 
 ---
 
 ## 📌 Featured Projects
 
-| Project                                      | Course / Topic                        | Focus Area                                                   | Deliverable                                                 |
-| -------------------------------------------- | ------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
-| **Abercrombie & Fitch Debt Rating Model**    | Financial Modeling                    | Credit Rating, Risk Assessment, Financial Forecasting        | [View Workbook](./ANF%20Debt%20Rating.xlsx)                 |
-| **Deluxe Corp Forecasting & Valuation**      | Advanced Financial Statement Analysis | Three-Statement Forecasting, DCF, RIM, Relative Valuation    | [View PDF](./DLX%20Valuation.pdf)                           |
-| **Ethos IPO Transaction Review**             | Investment Banking / IPO Analysis     | Selling Thesis, IPO Structure, Comps Valuation, Risk Factors | [View Deck](./Ethos_IPO_Assignment.pptx)                    |
-| **Yelp Restaurant & Food Business Analysis** | Business Data Analysis with SQL       | SQL Analytics, Market Entry, Operations, Review Analysis     | [View PDF](./Yelp%20Restaurant%20%26%20Food%20Analysis.pdf) |
+| Project                                      | Course / Topic                        | Focus Area                                  | Deliverable                                                 |
+| -------------------------------------------- | ------------------------------------- | ------------------------------------------- | ----------------------------------------------------------- |
+| **Abercrombie & Fitch Debt Rating Model**    | Financial Modeling                    | Credit Rating, Risk Assessment, Forecasting | [View Workbook](./ANF%20Debt%20Rating.xlsx)                 |
+| **Deluxe Corp Forecasting & Valuation**      | Advanced Financial Statement Analysis | Forecasting, DCF, RIM, Comps                | [View PDF](./DLX%20Valuation.pdf)                           |
+| **Ethos IPO Transaction Review**             | Investment Banking / IPO Analysis     | IPO Structure, Comps, Risk Factors          | [View Deck](./Ethos_IPO_Assignment.pptx)                    |
+| **Yelp Restaurant & Food Business Analysis** | Business Data Analysis with SQL       | SQL Analytics, Market Entry, Operations     | [View PDF](./Yelp%20Restaurant%20%26%20Food%20Analysis.pdf) |
 
 ---
 
-## 🏷 Project 1 — Abercrombie & Fitch Debt Rating Model
+## 🏷 Abercrombie & Fitch Debt Rating Model
 
-**Deliverable:** Excel Workbook
-**Focus:** Credit rating, financial forecasting, valuation, and operating risk assessment
-**Tools:** Excel, financial modeling, ratio analysis
+Built a credit rating and valuation workbook for **Abercrombie & Fitch Co.**, linking financial statements, assumptions, debt schedules, and risk assessment outputs. The project evaluated operating performance, liquidity, solvency, profitability, and coverage metrics to support a debt rating view.
 
-Built an integrated credit rating and valuation workbook for **Abercrombie & Fitch Co. (ANF)**, including assumptions, financial statements, supporting schedules, risk tables, and debt rating calculations.
-
-**Key Highlights**
-
-* Built linked financial statement schedules, including income statement, balance sheet, statement of cash flows, working capital, debt, shareholder equity, and fixed assets.
-* Developed risk assessment tables covering liquidity, solvency, debt payback, coverage, profitability, revenue growth, EBIT margin, and net margin.
-* Created a rating calculation framework to evaluate financial risk and operating performance across forecast years.
-* Supported credit-oriented decision-making through structured assumptions, scenario analysis, and risk classification.
-
-**Skills Demonstrated**
-`Financial Modeling` · `Credit Analysis` · `Ratio Analysis` · `Scenario Analysis` · `Risk Assessment` · `Excel`
+**Skills:** Financial Modeling · Credit Analysis · Ratio Analysis · Scenario Analysis · Risk Assessment · Excel
 
 ---
 
-## 🏷 Project 2 — Deluxe Corp Forecasting & Valuation
+## 🏷 Deluxe Corp Forecasting & Valuation
 
-**Deliverable:** PDF Report
-**Course:** NBA 5090 Advanced Financial Statement Analysis
-**Focus:** Financial statement forecasting and valuation analysis
-**Tools:** Excel, financial statement analysis, DCF, residual income model, comparable company analysis
+Conducted a full financial forecasting and valuation analysis for **Deluxe Corporation**, including projected financial statements, DCF valuation, residual income valuation, and comparable company analysis. The project focused on Deluxe’s transition from print products toward payments, data solutions, and merchant services.
 
-Conducted a full financial forecasting and valuation analysis for **Deluxe Corporation (DLX)**, a business services company transitioning from traditional print products toward payments, data solutions, and merchant services.
-
-**Key Highlights**
-
-* Forecasted product revenue and service revenue separately based on business transformation, segment trends, and management strategy.
-* Built projected income statement, balance sheet, and cash flow statement through 2029.
-* Modeled key assumptions for revenue, COGS, SG&A, restructuring expenses, interest expense, tax rate, working capital, PP&E, intangible assets, and financing accounts.
-* Applied multiple valuation approaches, including DCF valuation, residual income valuation, and relative valuation.
-* Conducted sensitivity analysis and compared valuation outputs to develop an investment recommendation.
-
-**Skills Demonstrated**
-`Financial Statement Forecasting` · `DCF Valuation` · `Residual Income Valuation` · `Comparable Company Analysis` · `Sensitivity Analysis`
+**Skills:** Financial Statement Forecasting · DCF Valuation · Residual Income Valuation · Comparable Company Analysis · Sensitivity Analysis
 
 ---
 
-## 🏷 Project 3 — Ethos IPO Transaction Review
+## 🏷 Ethos IPO Transaction Review
 
-**Deliverable:** PowerPoint Deck
-**Focus:** IPO transaction review, investor selling thesis, risk analysis, and valuation
-**Tools:** Capital IQ, S-1 analysis, comparable company analysis, IPO transaction analysis
+Prepared an IPO transaction review for **Ethos Technologies Inc.**, analyzing its investor selling thesis, IPO structure, proceeds breakdown, lock-up terms, post-IPO capitalization, and key risk factors. The valuation work used a weighted comparable company framework to reflect Ethos’ capital-light insurance distribution model.
 
-Prepared an IPO transaction review for **Ethos Technologies Inc.**, a capital-light life insurance platform, analyzing how the company should be positioned to IPO investors and how its public-market valuation should be assessed.
-
-**Key Highlights**
-
-* Developed an equity investor selling thesis based on Ethos’ underwriting technology, digital application engine, Agent OS, policy administration system, and data infrastructure.
-* Analyzed key IPO risk factors, including revenue persistency, carrier dependence, marketing efficiency, regulatory/privacy exposure, cybersecurity risk, and dual-class governance.
-* Summarized IPO transaction structure, including primary and secondary share split, proceeds breakdown, underwriting structure, lock-up terms, and post-IPO capitalization.
-* Built comparable company analysis using weighted peer selection rather than a mechanical median, reflecting Ethos’ capital-light insurance distribution model.
-* Evaluated valuation implications using public-market comparable companies and IPO-specific investor considerations.
-
-**Skills Demonstrated**
-`IPO Analysis` · `Comparable Company Analysis` · `Capital Markets` · `S-1 Review` · `Risk Assessment` · `Valuation`
+**Skills:** IPO Analysis · S-1 Review · Comparable Company Analysis · Capital Markets · Risk Assessment · Valuation
 
 ---
 
-## 🏷 Project 4 — Yelp Restaurant & Food Business Analysis
+## 🏷 Yelp Restaurant & Food Business Analysis
 
-**Deliverable:** PDF Report
-**Course:** NBA 6550 Business Data Analysis with SQL
-**Focus:** SQL-based business analytics and restaurant performance recommendations
-**Tools:** SQLite, Excel regression analysis, data visualization, business strategy
+Analyzed Yelp restaurant and food business data using SQL to identify market entry opportunities and operational improvement strategies. The project evaluated location, service hours, photos, Elite users, check-in patterns, and review content to generate data-driven recommendations for restaurant performance.
 
-Analyzed Yelp’s restaurant and food business dataset to provide market entry guidance for new restaurants and operational optimization strategies for existing restaurants.
-
-**Key Highlights**
-
-* Analyzed 16,663 restaurant and food businesses using star ratings and review counts as performance indicators.
-* Used SQLite to explore relationships between geographic location, service hours, photo volume, photo type, user type, check-in patterns, review content, and restaurant performance.
-* Identified favorable market entry locations with high demand and moderate competition, including cities with strong review activity but lower saturation.
-* Evaluated how photo quantity and category mix affect restaurant engagement, showing that richer visual content is associated with stronger review performance.
-* Analyzed Yelp Elite user effects, check-in patterns, peak-hour demand, and review sentiment drivers.
-* Built regression-based insights showing that food, service, and cleanliness are key rating drivers, while negative experiences such as service failures, hygiene issues, and long wait times have stronger downside effects.
-
-**Skills Demonstrated**
-`SQL` · `Data Analysis` · `Business Analytics` · `Regression Analysis` · `Market Entry Strategy` · `Operational Optimization`
+**Skills:** SQL · Business Analytics · Data Analysis · Regression Analysis · Market Entry Strategy · Operational Optimization
 
 ---
 
